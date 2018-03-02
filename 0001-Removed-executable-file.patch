@@ -1,0 +1,20 @@
+From 419d82b43b64764a2f9a828d1bdb1a9d5ea64b8a Mon Sep 17 00:00:00 2001
+From: BettinaBalind <balindbetti96@gmail.com>
+Date: Thu, 1 Mar 2018 16:07:29 +0100
+Subject: [PATCH] Removed executable file
+
+---
+ test.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 test.txt
+
+diff --git a/test.txt b/test.txt
+deleted file mode 100644
+index 10aac9f..0000000
+--- a/test.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-This is a test file. Hello world!
+-- 
+2.16.2.windows.1
+
